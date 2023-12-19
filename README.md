@@ -1,6 +1,7 @@
-# <p align="center"><span style="font-size: 26px;">Botanical Garden Page</span></p>
+# <p align="center"><span style="font-size: 26px;">Jardim Botânico</span></p>
 
-Pagina feita com Bootstrap... https://botanical-garden-theta.vercel.app/
+Pagina feita para testar e aplicar meus conhecimentos aprendidos no curso de Bootstrap... acesse
+https://botanical-garden-theta.vercel.app/
 
 <table>
   <tr>
